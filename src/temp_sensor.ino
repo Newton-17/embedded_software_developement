@@ -30,7 +30,7 @@ char csvData[20480] = "timestamp,temp,humidity\n";
 
 // SSID Info for NTP & Webserver
 const char* ssid = "NuggetsInParadise";
-const char* password = "thedogisphat";
+const char* password = "<INSERT PASSWORD HERE>";
 
 // Time Info
 // Define NTP Client to get time
